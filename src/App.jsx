@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import CityData from "./assets/components/CityData";
 
-const API_key = "79337f5d765f93a0beda90c1fd36a5fa";
+const API_key = api_key;
 
 function App() {
 
